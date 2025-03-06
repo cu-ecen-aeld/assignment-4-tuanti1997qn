@@ -9,6 +9,8 @@ git submodule init
 git submodule sync
 git submodule update
 
+export FORCE_UNSAFE_CONFIGURE=1
+
 set -e 
 cd `dirname $0`
 
