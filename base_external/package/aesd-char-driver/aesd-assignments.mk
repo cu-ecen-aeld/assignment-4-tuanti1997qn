@@ -5,7 +5,7 @@
 #
 ##############################################################
 
-AESD_CHAR_DRIVER_VERSION = '3dba86c7a4006a414e35fd114cf6127d98fa9b3c'
+AESD_CHAR_DRIVER_VERSION = '59c45e8875ba35e435c2bf92ae2a381c43b52d90'
 AESD_CHAR_DRIVER_SITE = 'git@github.com:cu-ecen-aeld/assignments-3-and-later-tuanti1997qn.git'
 AESD_CHAR_DRIVER_SITE_METHOD = git
 AESD_CHAR_DRIVER_GIT_SUBMODULES = YES
